@@ -1,0 +1,6 @@
+print("Salami Sheriff")
+print("Department of Electronic and Electrical Engineering")
+print("Ladoke Akintola University of Technology")
+print("2500 University Drive NW")
+print("Ogbomoso, Oyo state")
+print("Nigeria")
